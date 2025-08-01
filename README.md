@@ -1,6 +1,6 @@
 # ESP32 Web Server con Sensor BME280
 
-Este proyecto corresponde a la práctica final del Bootcamp de Electrónica. Consiste en el desarrollo de un sistema embebido basado en ESP32 que actúa como servidor web, mostrando en tiempo real los valores obtenidos de un sensor BME280 (temperatura, humedad, presión y altitud) a través de una interfaz HTML accesible desde cualquier navegador conectado a la misma red WiFi.
+Este proyecto consiste en el desarrollo de un sistema embebido basado en ESP32 que actúa como servidor web, mostrando en tiempo real los valores obtenidos de un sensor BME280 (temperatura, humedad, presión y altitud) a través de una interfaz HTML accesible desde cualquier navegador conectado a la misma red WiFi.
 
 ## Tecnologías utilizadas
 - Microcontrolador ESP32
@@ -33,7 +33,4 @@ La información se despliega en una tabla con estilo CSS que muestra:
 | VCC          | 3.3V      |
 | GND          | GND       |
 
-## Autor
-Justin Valdez  
-Práctica Final - Bootcamp de Electrónica  
-Tecnológico de Monterrey – Agosto 2025
+
